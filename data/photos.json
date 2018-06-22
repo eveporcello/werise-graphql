@@ -1,0 +1,14 @@
+[
+    { 
+      "id": "1", 
+      "name": "Kirkwood Blue Bird",
+      "description": "Dropping the heart chute",
+      "category": "ACTION"
+    },
+    { 
+      "id": "2", 
+      "name": "Alpine Meadows",
+      "description": "chimney chute",
+      "category": "LANDSCAPE"
+    }
+]

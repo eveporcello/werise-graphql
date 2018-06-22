@@ -1,0 +1,25 @@
+{
+  "name": "werise-graphql",
+  "version": "1.0.0",
+  "description": "An intro to GraphQL at WeRise Tech Conference in Atlanta!",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon . -e js,graphql"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eveporcello/werise-graphql.git"
+  },
+  "keywords": [
+    "graphql",
+    "javascript",
+    "fun",
+    "joy"
+  ],
+  "author": "Eve Porcello",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.14.10",
+    "nodemon": "^1.17.5"
+  }
+}
